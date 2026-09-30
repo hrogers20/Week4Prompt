@@ -1,0 +1,11 @@
+Refactoring is when you improve or reorganize code without changing what the program actually does. 
+The program should still give the same results, but the code itself becomes cleaner and easier to understand. 
+For example, refactoring could include removing repeated code, changing confusing variable names, or breaking a
+ large section of code into smaller functions. One benefit of refactoring is that it makes the program easier to 
+ read, especially when you come back to your code later. It can also make it easier to find and fix errors 
+ because the code is more organized. Refactoring can also make future changes easier because you do not have to 
+ work through messy or repeated code. I think refactoring is especially helpful when a program starts getting 
+ larger because it can become harder to keep track of everything. Overall, refactoring helps make code cleaner, 
+ more organized, and easier to maintain. I think refactoring is a very important part of programming especially
+ for me because when my program starts to get larger I tend to get overwhelmed since I am a beginner. This makes
+ refactoring very important to me.
